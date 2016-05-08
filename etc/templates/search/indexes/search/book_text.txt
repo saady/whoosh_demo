@@ -1,0 +1,3 @@
+{{ object.title }}
+{{ object.author.first_name }}
+{{ object.resume }}
